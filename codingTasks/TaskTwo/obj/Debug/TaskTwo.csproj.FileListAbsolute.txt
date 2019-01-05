@@ -1,0 +1,7 @@
+E:\codingRepo\coding-tasks\codingTasks\TaskTwo\bin\Debug\TaskTwo.exe.config
+E:\codingRepo\coding-tasks\codingTasks\TaskTwo\bin\Debug\TaskTwo.exe
+E:\codingRepo\coding-tasks\codingTasks\TaskTwo\bin\Debug\TaskTwo.pdb
+E:\codingRepo\coding-tasks\codingTasks\TaskTwo\obj\Debug\TaskTwo.csprojResolveAssemblyReference.cache
+E:\codingRepo\coding-tasks\codingTasks\TaskTwo\obj\Debug\TaskTwo.csproj.CoreCompileInputs.cache
+E:\codingRepo\coding-tasks\codingTasks\TaskTwo\obj\Debug\TaskTwo.exe
+E:\codingRepo\coding-tasks\codingTasks\TaskTwo\obj\Debug\TaskTwo.pdb

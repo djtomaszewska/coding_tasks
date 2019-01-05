@@ -1,0 +1,7 @@
+E:\codingRepo\coding-tasks\codingTasks\WarmUp\bin\Debug\WarmUp.exe.config
+E:\codingRepo\coding-tasks\codingTasks\WarmUp\bin\Debug\WarmUp.exe
+E:\codingRepo\coding-tasks\codingTasks\WarmUp\bin\Debug\WarmUp.pdb
+E:\codingRepo\coding-tasks\codingTasks\WarmUp\obj\Debug\WarmUp.csprojResolveAssemblyReference.cache
+E:\codingRepo\coding-tasks\codingTasks\WarmUp\obj\Debug\WarmUp.csproj.CoreCompileInputs.cache
+E:\codingRepo\coding-tasks\codingTasks\WarmUp\obj\Debug\WarmUp.exe
+E:\codingRepo\coding-tasks\codingTasks\WarmUp\obj\Debug\WarmUp.pdb
