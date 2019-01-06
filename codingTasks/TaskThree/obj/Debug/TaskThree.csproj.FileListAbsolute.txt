@@ -1,0 +1,9 @@
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\bin\Debug\TaskThree.exe.config
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\bin\Debug\TaskThree.exe
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\bin\Debug\TaskThree.pdb
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\obj\Debug\TaskThree.csprojResolveAssemblyReference.cache
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\obj\Debug\TaskThree.Properties.Resources.resources
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\obj\Debug\TaskThree.csproj.GenerateResource.Cache
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\obj\Debug\TaskThree.csproj.CoreCompileInputs.cache
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\obj\Debug\TaskThree.exe
+E:\codingRepo\coding_tasks\codingTasks\TaskThree\obj\Debug\TaskThree.pdb
